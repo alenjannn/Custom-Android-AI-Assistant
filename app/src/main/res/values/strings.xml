@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ARIA</string>
+    <string name="accessibility_service_description">Allows ARIA to send messages in WhatsApp, Messenger, and Instagram on your behalf.</string>
+</resources>
